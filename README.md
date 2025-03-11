@@ -1,10 +1,10 @@
-# 💫 Olá, sou o Pablo Marques!
+# 💫 Olá, sou Pablo Marques!
 
 👨‍💻 Engenheiro de Software com sólida experiência no desenvolvimento de aplicativos móveis e sistemas backend, especializado no uso de Flutter, Dart e Firebase. Tenho expertise na criação de soluções escaláveis e eficientes, tanto para o front-end quanto para o back-end, e lidero o desenvolvimento de aplicativos em colaboração com equipes ágeis. Sou apaixonado por otimizar a experiência do usuário, integrando APIs e melhorando o desempenho de sistemas para atender às necessidades de clientes internacionais e do setor privado.
 
 ## 🌐 Redes Sociais:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hoad3r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-marques-hoad3r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pablo-marques-6185a6270)
 
 # 💻 Tecnologias:
 
